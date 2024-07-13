@@ -9,7 +9,7 @@
 <body>
 <%--  아래의 커스텀 태그사용하여 주석처리함
     주석: 이 페이지는 회원제 게시판 예제를 위한 JSP 페이지입니다ddd.
-    authUser 객체를 통해 로그인 여부에 따라 다른 메뉴를 제공합니다.   
+    authUser 객체를 통해 로그인 여부에 따라 다른 메뉴를 제ddddddd공합니다.   
 <%-- 
 <c:if test="${! empty authUser}">
 	${authUser.name}님, 안녕하세요.

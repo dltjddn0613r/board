@@ -40,7 +40,7 @@
 		<a href="modify.do?no=${articleData.article.number}">[게시글수정]</a>
 		
 		<!--게시글 삭제 링크를 생성하며, 게시글 번호를 파라미터로 전달합니다.  -->
-		<a href="delete.do?no=${articleData.article.number}">[게시글삭제]</a>
+		<a href="delete.do?no=${articleData.article.number}"><button>[게시글삭제]</button></a>
 		</c:if>
 	</td>
 </tr>
